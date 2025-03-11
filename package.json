@@ -1,0 +1,31 @@
+{
+  "name": "hop.fun-personal",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "snipe": "ts-node transactions/snipe.ts",
+    "monitor": "ts-node helpers/listedTokens.ts"
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@mysten/sui": "^1.14.1",
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5",
+    "fs": "^0.0.1-security",
+    "node-telegram-bot-api": "^0.66.0",
+    "path": "^0.12.7",
+    "pino": "^9.5.0",
+    "viem": "^2.21.40"
+  },
+  "devDependencies": {
+    "@types/node": "^22.8.7",
+    "@types/node-telegram-bot-api": "^0.64.7",
+    "pino-pretty": "^10.2.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.3"
+  }
+}

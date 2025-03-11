@@ -1,0 +1,10 @@
+{
+  "0x82e41e26606e7142ef83b9103ae339a1b1d1c1a9bc232ac764ff30346ac39aad::trmu::TRMU": {
+    "balance": "0",
+    "curveId": "0x75f74fbb0aa68970ddfe95d6d598bb638c783fecfad5649e4b14655aa52cb72a",
+    "data": {
+      "name": "TRUMPMUSK",
+      "type": "0x82e41e26606e7142ef83b9103ae339a1b1d1c1a9bc232ac764ff30346ac39aad::trmu::TRMU"
+    }
+  }
+}

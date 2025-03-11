@@ -1,0 +1,111 @@
+{"level":50,"time":"2024-11-05T01:37:52.068Z","msg":"Error reading settings: ENOENT: no such file or directory, open '/Users/wesley/Desktop/hop.fun personal/settings.json'"}
+{"level":50,"time":"2024-11-05T02:20:35.697Z","msg":"Error in buyMostRecentToken:"}
+{"level":50,"time":"2024-11-05T02:57:04.975Z","msg":"Error sending Telegram message:"}
+{"level":30,"time":"2024-11-05T03:03:59.701Z","msg":"buy_1_mjhpc3"}
+{"level":30,"time":"2024-11-05T03:05:54.069Z","msg":"buy_1_irrwp5"}
+{"level":30,"time":"2024-11-05T03:07:30.180Z","msg":"buy_1_50nwel"}
+{"level":30,"time":"2024-11-05T03:08:47.323Z","msg":"buy_1_3tzq2p"}
+{"level":30,"time":"2024-11-05T03:13:17.996Z","msg":"buy_1_54xs5n"}
+{"level":30,"time":"2024-11-05T03:17:05.039Z","msg":"buy_1_nq1n36"}
+{"level":30,"time":"2024-11-05T03:29:24.187Z","msg":"sell_40_iwzxzm"}
+{"level":30,"time":"2024-11-05T03:32:00.336Z","msg":"sell_40_8dp367"}
+{"level":30,"time":"2024-11-05T03:34:26.608Z","msg":"sell_10_f00lpb"}
+{"level":30,"time":"2024-11-05T03:38:49.140Z","msg":"sell_10_a111d5"}
+{"level":30,"time":"2024-11-05T03:41:06.210Z","msg":"sell_10_vxvk40"}
+{"level":30,"time":"2024-11-05T03:54:52.807Z","msg":"sell_10_lug3b2"}
+{"level":30,"time":"2024-11-05T03:56:58.839Z","msg":"sell_10_itrnov"}
+{"level":30,"time":"2024-11-05T04:01:59.274Z","msg":"sell_10_7p0mmy"}
+{"level":30,"time":"2024-11-05T04:06:52.516Z","msg":"sell_10_vou6l8"}
+{"level":50,"time":"2024-11-05T04:08:06.758Z","msg":"Error in buyMostRecentToken:"}
+{"level":30,"time":"2024-11-05T04:09:50.649Z","msg":"sell_10_mucide"}
+{"level":30,"time":"2024-11-05T04:15:45.267Z","msg":"sell_10_drr1x1"}
+{"level":30,"time":"2024-11-05T04:15:53.086Z","msg":"sell_10_r6i56f"}
+{"level":30,"time":"2024-11-05T04:20:50.612Z","msg":"sell_10_f7z322"}
+{"level":30,"time":"2024-11-05T04:25:20.030Z","msg":"sell_10_fn2qml"}
+{"level":30,"time":"2024-11-05T04:27:36.274Z","msg":"sell_10_3nkps2"}
+{"level":30,"time":"2024-11-05T04:29:54.482Z","msg":"buy_1_ged0s2"}
+{"level":30,"time":"2024-11-05T04:32:18.621Z","msg":"buy_1_xobpsx"}
+{"level":30,"time":"2024-11-05T04:32:34.649Z","msg":"sell_10_xobpsx"}
+{"level":30,"time":"2024-11-05T04:34:51.582Z","msg":"sell_10_4znmv4"}
+{"level":30,"time":"2024-11-05T04:40:34.315Z","msg":"sell_10_42q7qp"}
+{"level":30,"time":"2024-11-05T04:46:47.219Z","msg":"sell_10_5dohcw"}
+{"level":30,"time":"2024-11-05T04:53:25.066Z","msg":"sell_10_0g0k8n"}
+{"level":30,"time":"2024-11-05T04:56:58.704Z","msg":"sell_10_kbee21"}
+{"level":30,"time":"2024-11-05T04:59:38.694Z","msg":"sell_10_a9xqyr"}
+{"level":30,"time":"2024-11-05T05:06:49.912Z","msg":"sell_10_jycq04"}
+{"level":30,"time":"2024-11-05T05:08:41.749Z","msg":"sell_10_9p6nam"}
+{"level":30,"time":"2024-11-05T05:12:17.534Z","msg":"sell_100_cyzxeb"}
+{"level":30,"time":"2024-11-05T05:20:58.039Z","msg":"buy_1_zud0ja"}
+{"level":30,"time":"2024-11-05T05:21:28.057Z","msg":"sell_10_zud0ja"}
+{"level":30,"time":"2024-11-05T05:24:57.874Z","msg":"buy_1_oq8dfe"}
+{"level":30,"time":"2024-11-05T05:25:27.920Z","msg":"sell_10_oq8dfe"}
+{"level":30,"time":"2024-11-05T05:30:16.552Z","msg":"sell_10_hiocn0"}
+{"level":30,"time":"2024-11-05T05:37:20.288Z","msg":"sell_10_hiocn0"}
+{"level":30,"time":"2024-11-05T05:38:44.314Z","msg":"sell_10_hiocn0"}
+{"level":30,"time":"2024-11-05T05:39:44.799Z","msg":"sell_10_hiocn0"}
+{"level":30,"time":"2024-11-05T05:52:29.901Z","msg":"sell_10_hiocn0"}
+{"level":30,"time":"2024-11-05T05:53:21.026Z","msg":"sell_10_hiocn0"}
+{"level":30,"time":"2024-11-05T05:54:59.845Z","msg":"sell_10_hiocn0"}
+{"level":30,"time":"2024-11-05T05:56:32.920Z","msg":"sell_10_hiocn0"}
+{"level":30,"time":"2024-11-05T05:57:23.134Z","msg":"sell_10_hiocn0"}
+{"level":30,"time":"2024-11-05T05:58:32.600Z","msg":"sell_10_hiocn0"}
+{"level":30,"time":"2024-11-05T05:59:51.742Z","msg":"sell_10_hiocn0"}
+{"level":30,"time":"2024-11-05T06:00:12.874Z","msg":"sell_10_hiocn0"}
+{"level":30,"time":"2024-11-05T06:01:31.237Z","msg":"sell_10_hiocn0"}
+{"level":30,"time":"2024-11-05T06:02:57.486Z","msg":"sell_10_hiocn0"}
+{"level":30,"time":"2024-11-05T06:04:33.250Z","msg":"sell_10_hiocn0"}
+{"level":30,"time":"2024-11-05T12:35:03.731Z","msg":"sell_10_hiocn0"}
+{"level":30,"time":"2024-11-05T12:39:05.346Z","msg":"sell_10_hiocn0"}
+{"level":30,"time":"2024-11-05T12:40:33.669Z","msg":"sell_10_hiocn0"}
+{"level":30,"time":"2024-11-05T12:43:24.501Z","msg":"sell_10_hiocn0"}
+{"level":30,"time":"2024-11-05T12:44:10.804Z","msg":"sell_10_hiocn0"}
+{"level":30,"time":"2024-11-05T12:44:44.703Z","msg":"sell_40_hiocn0"}
+{"level":30,"time":"2024-11-05T12:47:19.723Z","msg":"sell_100_hiocn0"}
+{"level":30,"time":"2024-11-05T12:47:30.061Z","msg":"sell_100_hiocn0"}
+{"level":30,"time":"2024-11-05T12:47:49.764Z","msg":"sell_100_hiocn0"}
+{"level":30,"time":"2024-11-05T13:14:27.070Z","msg":"buy_1_or13x7"}
+{"level":30,"time":"2024-11-05T13:14:33.507Z","msg":"sell_10_or13x7"}
+{"level":30,"time":"2024-11-05T13:14:39.641Z","msg":"ape_bal_0_or13x7"}
+{"level":50,"time":"2024-11-05T13:14:45.350Z","msg":"Token info not found."}
+{"level":30,"time":"2024-11-05T13:18:38.921Z","msg":"ape_bal_0_or13x7"}
+{"level":50,"time":"2024-11-05T13:18:43.067Z","msg":"Token info not found."}
+{"level":30,"time":"2024-11-05T13:23:11.951Z","msg":"ape_bal_0_or13x7"}
+{"level":50,"time":"2024-11-05T13:23:15.887Z","msg":"Token info not found."}
+{"level":30,"time":"2024-11-05T13:24:21.043Z","msg":"buy_1_or13x7"}
+{"level":30,"time":"2024-11-05T13:27:21.959Z","msg":"ape_bal_0_0xyxle"}
+{"level":50,"time":"2024-11-05T13:27:26.482Z","msg":"Token info not found."}
+{"level":30,"time":"2024-11-05T13:28:39.376Z","msg":"ape_bal_0_0xyxle"}
+{"level":50,"time":"2024-11-05T13:28:43.591Z","msg":"Token info not found."}
+{"level":30,"time":"2024-11-05T22:22:39.458Z","msg":"buy_1_2x7cyy"}
+{"level":30,"time":"2024-11-05T22:26:00.276Z","msg":"buy_1_2x7cyy"}
+{"level":30,"time":"2024-11-05T22:26:09.134Z","msg":"sell_10_2x7cyy"}
+{"level":30,"time":"2024-11-05T22:26:21.645Z","msg":"sell_100_2x7cyy"}
+{"level":30,"time":"2024-11-05T22:26:26.017Z","msg":"buy_1_2x7cyy"}
+{"level":30,"time":"2024-11-05T22:26:30.164Z","msg":"ape_bal_0_2x7cyy"}
+{"level":50,"time":"2024-11-05T22:26:35.081Z","msg":"Token info not found."}
+{"level":30,"time":"2024-11-05T22:30:36.435Z","msg":"ape_bal_0_2x7cyy"}
+{"level":50,"time":"2024-11-05T22:30:40.559Z","msg":"Token info not found."}
+{"level":30,"time":"2024-11-05T22:37:01.259Z","msg":"ape_bal_0_2x7cyy"}
+{"level":50,"time":"2024-11-05T22:37:05.453Z","msg":"Token info not found."}
+{"level":30,"time":"2024-11-05T22:38:54.837Z","msg":"ape_bal_0_2x7cyy"}
+{"level":50,"time":"2024-11-05T22:38:59.327Z","msg":"Token info not found."}
+{"level":30,"time":"2024-11-05T22:38:59.693Z","msg":"ape_bal_0_2x7cyy"}
+{"level":50,"time":"2024-11-05T22:39:03.755Z","msg":"Token info not found."}
+{"level":30,"time":"2024-11-05T22:43:45.920Z","msg":"ape_bal_0_2x7cyy"}
+{"level":50,"time":"2024-11-05T22:43:49.807Z","msg":"Token info not found."}
+{"level":30,"time":"2024-11-05T22:47:07.818Z","msg":"ape_bal_0_2x7cyy"}
+{"level":50,"time":"2024-11-05T22:47:13.005Z","msg":"Token info not found."}
+{"level":30,"time":"2024-11-05T22:48:45.993Z","msg":"ape_bal_0_2x7cyy"}
+{"level":50,"time":"2024-11-05T22:48:50.975Z","msg":"Token info not found."}
+{"level":30,"time":"2024-11-05T22:50:25.221Z","msg":"ape_bal_0_2x7cyy"}
+{"level":50,"time":"2024-11-05T22:50:29.149Z","msg":"Token info not found."}
+{"level":30,"time":"2024-11-05T22:51:27.566Z","msg":"ape_bal_0_2x7cyy"}
+{"level":50,"time":"2024-11-05T22:51:31.670Z","msg":"Token info not found."}
+{"level":30,"time":"2024-11-05T23:07:22.868Z","msg":"ape_bal_0_2x7cyy"}
+{"level":30,"time":"2024-11-05T23:07:22.869Z","msg":"Token info found!"}
+{"level":30,"time":"2024-11-05T23:07:22.870Z","msg":"2x7cyy"}
+{"level":50,"time":"2024-11-05T23:07:23.016Z","msg":"Error fetching token balance for 2x7cyy: Invalid struct type: 2x7cyy. Got error: expected token ::, got [identifier]"}
+{"level":30,"time":"2024-11-05T23:10:08.640Z","msg":"ape_bal_0_2x7cyy"}
+{"level":30,"time":"2024-11-05T23:10:08.642Z","msg":"Token info found!"}
+{"level":30,"time":"2024-11-05T23:10:08.643Z","msg":"2x7cyy"}
+{"level":50,"time":"2024-11-05T23:10:08.806Z","msg":"Error fetching token balance for 2x7cyy: Invalid struct type: 2x7cyy. Got error: expected token ::, got [identifier]"}
